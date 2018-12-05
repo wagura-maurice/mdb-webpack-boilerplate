@@ -1,0 +1,25 @@
+{
+  "name": "mdb_webpack",
+  "version": "1.0.0",
+  "description": "toolbox containing a series of useful functions and elements that might be helpful in the process of creating your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagura-maurice/mdb-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "for",
+    "Bootstrap"
+  ],
+  "author": "Wagura Maurice <wagura465@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wagura-maurice/mdb-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/wagura-maurice/mdb-webpack-boilerplate#readme"
+}
